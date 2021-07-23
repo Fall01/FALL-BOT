@@ -125,7 +125,7 @@ exports.uangkau = (pushname, sender, uangkau) => {
 
 exports.donasi = () => {
 return`*DONASI KAK*
-Pulsa : 083153406515
+Pulsa : 087786791140
 Gopay : Minta Owner
 
 Donasi supaya bot terus update & Aktif`
@@ -150,7 +150,7 @@ return`🔰 -----[ 「 *SEWA ${botName}* 」 ]----- 🔰
 ──────────────────────────────
 ◯ *JIKA MINAT IKLAN DIATAS*
 ◯ *HARAP HUBUNGI NOMOR DIBAWAH :*
-◯ *wa.me/6283153406515*
+◯ *wa.me/6287786791140*
 ──────────────────────────────
-🔰 -----[「 *POWERED BY RIYAN BOTZ* 」]----- 🔰`
+🔰 -----[「 *POWERED BY FALL-BOT* 」]----- 🔰`
 }
