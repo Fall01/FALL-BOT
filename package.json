@@ -1,5 +1,5 @@
 {
-  "name": "babybot",
+  "name": "FALL-BOT",
   "version": "1.0.0",
   "description": "script bot whatsapp termux",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ramlan404/babybot.git"
+    "url": "git+https://github.com/Fall01/FALL-BOT.git"
   },
   "keywords": [
     "botwa",
@@ -20,12 +20,12 @@
     "babybot",
     "whatsapp"
   ],
-  "author": "Ramlan ID",
+  "author": "FALL STORE",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ramlan404/babybot/issues"
+    "url": "https://github.com/Fall01/FALL-BOT/issues"
   },
-  "homepage": "https://github.com/Ramlan404/babybot#readme",
+  "homepage": "https://github.com/Fall01/FALL-BOT#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
     "async": "^3.2.0",
