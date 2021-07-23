@@ -49,15 +49,15 @@ Siapin alat dan bahannya.
 Buka nih [`Ramlan.json`](https://github.com/Ramlan404/babybot/edit/main/settings/Ramlan.json). Apikey Free Tinggal regist [`ZEKS API`](https://api.lolhuman.xyz/login).
 ```json
 {
-    "botName": "BUMER BOT",
-    "ownerName": "RIYAN BOTZ",
-    "ownerNumbers": "6283153406515",
+    "botName": "FALL-BOT",
+    "ownerName": "FALL STORE",
+    "ownerNumbers": "6287786791140",
     "ZeksApi": "apivinz",
     "botPrefix": "!",
     "GrupLimitz": "0",
-    "autor": "MrR4M",
-    "peknem": "BUMER-BOT",
-    "CeerTod": "*BUMER BOTZ VERIFIED*"
+    "autor": "FALL STORE",
+    "peknem": "FALL-BOT",
+    "CeerTod": "*FALL-BOT VERIFIED*"
 }
 
 ```
@@ -71,8 +71,8 @@ Buka nih [`Ramlan.json`](https://github.com/Ramlan404/babybot/edit/main/settings
 > pkg install git -y
 > pkg install bash -y
 > pkg install mc -y
-> git clone https://github.com/Ramlan404/babybot
-> cd babybot
+> git clone https://github.com/Fall01/FALL-BOT
+> cd FALL-BOT
 > bash install.sh
 > npm start
 > SCAN DAH BRO MHEHE EZ KAN:V
@@ -82,15 +82,15 @@ Buka nih [`Ramlan.json`](https://github.com/Ramlan404/babybot/edit/main/settings
 Ket: Script ini gratis ye Jangan dijual_-
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi Ramlan ID`](https://saweria.co/ramlangans)
+* [`Donasi Fall ID`](https://saweria.co/Fall01)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://youtube.com/c/RAMLANID)
-* [`Instagram Admin`](https://instagram.com/iamramlan_)
-* [`WhatsApp Admin `](https://wa.me/+6285559240360)
-* [`Group WhatsApp `](https://chat.whatsapp.com/DcSr2e5hLMd7PkufBVymgu)
+* [`Youtube Admin`](https://youtube.com/c/Fall)
+* [`Instagram Admin`](https://instagram.com/mr_fall17)
+* [`WhatsApp Admin `](https://wa.me/+6287786791140)
+* [`Group WhatsApp `](https://chat.whatsapp.com/F7slLsxNTTu8mBpJSv3SZ2)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`ALLAH SWT`]
